@@ -3,8 +3,9 @@
 ## 1. Identify Semester IDs
 **Run on Results Page:** `https://erp.dypakurdipune.edu.in/stu_downloadStudentExamResult.htm`
 <br><br>
-> [!]
-> If you get an error while pasting the code, type "allow pasting", press Enter, and try pasting the code again.
+> [!WARNING]
+> If you encounter an error while pasting the code, type "allow pasting", press Enter, and try pasting the code again.
+
 
 
 <br><br>
