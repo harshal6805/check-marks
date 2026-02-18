@@ -2,7 +2,7 @@
 
 ## 1. Identify Semester IDs
 **Run on Results Page:** `https://erp.dypakurdipune.edu.in/stu_downloadStudentExamResult.htm`
-
+*<font color="red">If you get any error while pasting the code, type "allow pasting", press Enter, and try pasting the code again.</font>*
 This script captures your exam IDs and saves them to browser memory
 
 ```javascript
@@ -106,6 +106,8 @@ This script pre-fills the saved IDs and monitors for subject clicks. It stops se
     };
 })();
 ```
+
+
 
 
 
