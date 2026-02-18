@@ -106,3 +106,7 @@ This script pre-fills the saved IDs and monitors for subject clicks. It stops se
     };
 })();
 ```
+
+
+https://github.com/user-attachments/assets/103c877e-481c-42e8-b042-6dabe6e4cd7a
+
