@@ -1,5 +1,9 @@
 
 
+
+Uploading Untitled 6.mp4…
+
+
 ## 1. Identify Semester IDs
 **Run on Results Page:** `https://erp.dypakurdipune.edu.in/stu_downloadStudentExamResult.htm`
 
