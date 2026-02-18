@@ -4,6 +4,8 @@
 **Run on Results Page:** `https://erp.dypakurdipune.edu.in/stu_downloadStudentExamResult.htm`
 <br><br>
 *<font color="red">If you get any error while pasting the code, type "allow pasting", press Enter, and try pasting the code again.</font>*
+
+<br><br>
 This script captures your exam IDs and saves them to browser memory
 
 ```javascript
