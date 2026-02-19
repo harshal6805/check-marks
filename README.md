@@ -1,4 +1,4 @@
-
+#Check each sem marks
 
 ## 1. Identify Semester IDs
 **Run on Results Page:** `https://erp.dypakurdipune.edu.in/stu_downloadStudentExamResult.htm`
